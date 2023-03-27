@@ -1,0 +1,5 @@
+1 = friend of friend
+2 = casual friends
+3 = good friend / long-time friend
+4 = close friend
+5 = partner

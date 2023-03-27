@@ -1,0 +1,17 @@
+﻿id,name,type,capacity
+1,Adelaide,big,4500
+2,Melbourne,big,6000
+3,Sydney,big,7800
+4,Canberra,big,3000
+5,Brisbane,big,5000
+6,Darwin,big,2500
+7,Perth,big,5500
+8,Hobart,big,3500
+9,Mount Gambier,small,500
+10,Roxby Downs,small,200
+11,Whyalla,small,300
+12,Alice Springs,medium,1500
+13,Mt Isa,medium,1200
+14,Cairns,medium,1500
+15,Broome,medium,1000
+16,Launceston,medium,800

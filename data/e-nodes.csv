@@ -1,0 +1,25 @@
+﻿id,name,genre,n_listeners,active
+1,Brian Eno,Ambient,1400,1
+2,Harold Budd,Ambient,385,0
+3,Robert Fripp,Experimental,134,1
+4,David Byrne,Pop,467,1
+5,Roger Eno,Modern Classical,163,1
+6,Cluster & Eno,Krautrock,48,0
+7,Robin Guthrie,Ambient,124,1
+8,Eraldo Bernocchi,Modern Classical,56,1
+9,King Crimson,Prog Rock,771,0
+10,Adrian Belew,Experimental,97,1
+11,Peter Hammill,Rock,88,0
+12,Van der Graaf Generator,Prog Rock,249,0
+13,Talking Heads,Rock,2122,0
+14,St Vincent,Art Pop,1242,1
+15,XTC,Art Pop,719,0
+16,Oingo Boingo,Pop,488,0
+17,Elvis Costello & The Attractions,Rock,601,0
+18,Devo,Rock,970,0
+19,Patrick O'Hearn,Modern Classical,219,1
+20,Hans-Joachim Roedelius,Modern Classical,81,0
+21,Steve Roach,Modern Classical,180,1
+22,Cluster,Krautrock,171,0
+23,Harmonia,Kratrock,110,0
+24,Harold Budd & Brian Eno,Ambient,123,0
